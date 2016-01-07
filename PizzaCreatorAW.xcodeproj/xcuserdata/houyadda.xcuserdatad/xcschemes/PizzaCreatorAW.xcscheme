@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5C562BC41C38583100694DAD"
-               BuildableName = "PizzaCreator.app"
-               BlueprintName = "PizzaCreator"
-               ReferencedContainer = "container:PizzaCreator.xcodeproj">
+               BlueprintIdentifier = "5CE102361C3DBADC008450D9"
+               BuildableName = "PizzaCreatorAW.app"
+               BlueprintName = "PizzaCreatorAW"
+               ReferencedContainer = "container:PizzaCreatorAW.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5C562BC41C38583100694DAD"
-            BuildableName = "PizzaCreator.app"
-            BlueprintName = "PizzaCreator"
-            ReferencedContainer = "container:PizzaCreator.xcodeproj">
+            BlueprintIdentifier = "5CE102361C3DBADC008450D9"
+            BuildableName = "PizzaCreatorAW.app"
+            BlueprintName = "PizzaCreatorAW"
+            ReferencedContainer = "container:PizzaCreatorAW.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5C562BC41C38583100694DAD"
-            BuildableName = "PizzaCreator.app"
-            BlueprintName = "PizzaCreator"
-            ReferencedContainer = "container:PizzaCreator.xcodeproj">
+            BlueprintIdentifier = "5CE102361C3DBADC008450D9"
+            BuildableName = "PizzaCreatorAW.app"
+            BlueprintName = "PizzaCreatorAW"
+            ReferencedContainer = "container:PizzaCreatorAW.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5C562BC41C38583100694DAD"
-            BuildableName = "PizzaCreator.app"
-            BlueprintName = "PizzaCreator"
-            ReferencedContainer = "container:PizzaCreator.xcodeproj">
+            BlueprintIdentifier = "5CE102361C3DBADC008450D9"
+            BuildableName = "PizzaCreatorAW.app"
+            BlueprintName = "PizzaCreatorAW"
+            ReferencedContainer = "container:PizzaCreatorAW.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

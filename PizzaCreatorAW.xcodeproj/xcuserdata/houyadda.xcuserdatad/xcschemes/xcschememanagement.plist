@@ -4,7 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PizzaCreator.xcscheme</key>
+		<key>PizzaCreatorAW WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>PizzaCreatorAW.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5C562BC41C38583100694DAD</key>
+		<key>5CE102361C3DBADC008450D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5CE102481C3DBADC008450D9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
