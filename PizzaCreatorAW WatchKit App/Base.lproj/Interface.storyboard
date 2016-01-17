@@ -212,6 +212,11 @@
             <objects>
                 <controller identifier="vistaOrden" id="zlN-UY-dab" customClass="OrdenInterfaceController" customModule="PizzaCreatorAW_WatchKit_Extension">
                     <items>
+                        <button width="1" height="29.5" alignment="left" title="Enviar?" id="I3P-mk-M8b">
+                            <connections>
+                                <segue destination="xke-9w-wa7" kind="push" id="9x3-Jd-FbQ"/>
+                            </connections>
+                        </button>
                         <label alignment="left" text="Este es su pizza:" id="pMQ-EJ-AoR"/>
                         <group width="1" alignment="left" id="XiD-OV-4IV">
                             <items>
@@ -237,11 +242,6 @@
                         <label width="136" alignment="left" text="---" id="lDO-0f-up2"/>
                         <label width="136" alignment="left" text="---" id="caW-qo-lEg"/>
                         <label width="136" alignment="left" text="---" id="MBc-c4-dNO"/>
-                        <button width="1" height="29.5" alignment="left" title="Enviar" id="I3P-mk-M8b">
-                            <connections>
-                                <segue destination="xke-9w-wa7" kind="push" id="9x3-Jd-FbQ"/>
-                            </connections>
-                        </button>
                     </items>
                     <connections>
                         <outlet property="i1" destination="EEg-6F-OFC" id="aXt-dW-LsA"/>
