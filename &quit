@@ -1,0 +1,44 @@
+commit all
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch AW
+# Your branch is up-to-date with 'origin/AW'.
+#
+# Changes to be committed:
+#	modified:   .DS_Store
+#	deleted:    PizzaCreator.xcodeproj/project.pbxproj
+#	deleted:    PizzaCreator.xcodeproj/project.xcworkspace/xcuserdata/houyadda.xcuserdatad/UserInterfaceState.xcuserstate
+#	deleted:    PizzaCreator/Base.lproj/Main.storyboard
+#	deleted:    PizzaCreator/CheeseTypeViewController.swift
+#	deleted:    PizzaCreator/ConfirmarViewController.swift
+#	deleted:    PizzaCreator/ConfirmationViewController.swift
+#	deleted:    PizzaCreator/IngredientsViewController.swift
+#	deleted:    PizzaCreator/MasaTypeViewController.swift
+#	deleted:    PizzaCreator/PizzaSizeViewController.swift
+#	deleted:    PizzaCreator/ViewController.swift
+#	new file:   PizzaCreatorAW WatchKit App/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	new file:   PizzaCreatorAW WatchKit App/Base.lproj/Interface.storyboard
+#	new file:   PizzaCreatorAW WatchKit App/Info.plist
+#	new file:   PizzaCreatorAW WatchKit Extension/Assets.xcassets/README__ignoredByTemplate__
+#	new file:   PizzaCreatorAW WatchKit Extension/ExtensionDelegate.swift
+#	new file:   PizzaCreatorAW WatchKit Extension/Info.plist
+#	new file:   PizzaCreatorAW WatchKit Extension/IngInterfaceController.swift
+#	new file:   PizzaCreatorAW WatchKit Extension/InterfaceController.swift
+#	new file:   PizzaCreatorAW WatchKit Extension/MasaInterfaceController.swift
+#	new file:   PizzaCreatorAW WatchKit Extension/OrdenInterfaceController.swift
+#	new file:   PizzaCreatorAW WatchKit Extension/TipoQuesoInterfaceController.swift
+#	new file:   PizzaCreatorAW WatchKit Extension/Valores.swift
+#	new file:   PizzaCreatorAW.xcodeproj/project.pbxproj
+#	renamed:    PizzaCreator.xcodeproj/project.xcworkspace/contents.xcworkspacedata -> PizzaCreatorAW.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+#	new file:   PizzaCreatorAW.xcodeproj/project.xcworkspace/xcuserdata/houyadda.xcuserdatad/UserInterfaceState.xcuserstate
+#	renamed:    PizzaCreator.xcodeproj/xcuserdata/houyadda.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist -> PizzaCreatorAW.xcodeproj/xcuserdata/houyadda.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+#	new file:   PizzaCreatorAW.xcodeproj/xcuserdata/houyadda.xcuserdatad/xcschemes/PizzaCreatorAW WatchKit App.xcscheme
+#	renamed:    PizzaCreator.xcodeproj/xcuserdata/houyadda.xcuserdatad/xcschemes/PizzaCreator.xcscheme -> PizzaCreatorAW.xcodeproj/xcuserdata/houyadda.xcuserdatad/xcschemes/PizzaCreatorAW.xcscheme
+#	renamed:    PizzaCreator.xcodeproj/xcuserdata/houyadda.xcuserdatad/xcschemes/xcschememanagement.plist -> PizzaCreatorAW.xcodeproj/xcuserdata/houyadda.xcuserdatad/xcschemes/xcschememanagement.plist
+#	renamed:    PizzaCreator/AppDelegate.swift -> PizzaCreatorAW/AppDelegate.swift
+#	renamed:    PizzaCreator/Assets.xcassets/AppIcon.appiconset/Contents.json -> PizzaCreatorAW/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	renamed:    PizzaCreator/Base.lproj/LaunchScreen.storyboard -> PizzaCreatorAW/Base.lproj/LaunchScreen.storyboard
+#	new file:   PizzaCreatorAW/Base.lproj/Main.storyboard
+#	renamed:    PizzaCreator/Info.plist -> PizzaCreatorAW/Info.plist
+#	new file:   PizzaCreatorAW/ViewController.swift
+#
