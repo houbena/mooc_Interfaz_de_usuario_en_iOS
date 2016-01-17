@@ -70,7 +70,7 @@ class IngInterfaceController: WKInterfaceController {
     
     func countIng(v: Bool){
         if v == true {n++} else {n--}
-        if n > 5 {verBoton.setEnabled(false)} else {verBoton.setEnabled(true)}
+        if n > 5 || n == 0 {verBoton.setEnabled(false)} else {verBoton.setEnabled(true)}
     }
     
     @IBAction func verLaOrden() {
